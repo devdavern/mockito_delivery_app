@@ -1,0 +1,82 @@
+[
+    {
+        "id": 123,
+        "name": "Pizza min 5",
+        "price": 7.50,
+        "rate": 4.8,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/espaguetis-italianos-salsa-tomate-sarten_1220-4240.jpg?t=st=1655855928~exp=1655856528~hmac=045f9e84416e0dc1bc4c1d18d48c7450c564dc89a771f44413f6f9d11ab5e9fe&w=740"
+    },
+    {
+        "id": 124,
+        "name": "Tacos max 5",
+        "price": 4,
+        "rate": 4.5,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/penne-pasta-salsa-tomate-pollo-tomates-mesa-madera_2829-19744.jpg?t=st=1655855928~exp=1655856528~hmac=d18437079b6210595a52779e6aa6960c3e0646e638df6ef0ea6b4bff501b3b88&w=740"
+    },
+    {
+        "id": 125,
+        "name": "Paste full 8",
+        "price": 4.50,
+        "rate": 4.3,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/brazo-masculino-tomando-rebanada-pizza-fresca-sabrosa-queso_151013-13702.jpg?w=740"
+    },
+    {
+        "id": 126,
+        "name": "Tacos max 5",
+        "price": 15.99,
+        "rate": 4.5,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/vista-superior-pasta-queso-placa-blanca_181624-18267.jpg?t=st=1655855928~exp=1655856528~hmac=81f4fe198a67cdfa962f3bc5417b647dbe3e68fd494590280a2016c676afea1e&w=740"
+    },
+    {
+        "id": 127,
+        "name": "Tacos min 5",
+        "price": 5.99,
+        "rate": 5,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/pappardelle-pasta-italiana-tradicional-queso-albahaca-plato-negro-sobre-fondo-oscuro_235573-838.jpg?w=740"
+    },
+    {
+        "id": 128,
+        "name": "Paste full 5",
+        "price": 8.50,
+        "rate": 4.8,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/espaguetis-italianos-salsa-tomate-sarten_1220-4240.jpg?t=st=1655855928~exp=1655856528~hmac=045f9e84416e0dc1bc4c1d18d48c7450c564dc89a771f44413f6f9d11ab5e9fe&w=740"
+    },
+    {
+        "id": 129,
+        "name": "Pizza max 5",
+        "price": 3.99,
+        "rate": 4.2,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/penne-pasta-salsa-tomate-pollo-tomates-mesa-madera_2829-19744.jpg?t=st=1655855928~exp=1655856528~hmac=d18437079b6210595a52779e6aa6960c3e0646e638df6ef0ea6b4bff501b3b88&w=740"
+    },
+    {
+        "id": 130,
+        "name": "Tacos min 5",
+        "price": 19.50,
+        "rate": 4.3,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/brazo-masculino-tomando-rebanada-pizza-fresca-sabrosa-queso_151013-13702.jpg?w=740"
+    },
+    {
+        "id": 131,
+        "name": "Tacos full 8",
+        "price": 15.99,
+        "rate": 4.5,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/vista-superior-pasta-queso-placa-blanca_181624-18267.jpg?t=st=1655855928~exp=1655856528~hmac=81f4fe198a67cdfa962f3bc5417b647dbe3e68fd494590280a2016c676afea1e&w=740"
+    },
+    {
+        "id": 132,
+        "name": "Tacos full 5",
+        "price": 25.99,
+        "rate": 5,
+        "description": "El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo. Estos textos hacen parecerlo un español que se puede leer.  Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "preview": "https://img.freepik.com/foto-gratis/pappardelle-pasta-italiana-tradicional-queso-albahaca-plato-negro-sobre-fondo-oscuro_235573-838.jpg?w=740"
+    }
+]
