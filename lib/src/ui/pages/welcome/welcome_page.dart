@@ -1,15 +1,15 @@
 // ignore_for_file: use_build_context_synchronously
 
-import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
-import '../../../data/repositories/preferences_repository.dart';
 import '../../../helpers/get.dart';
 import '../../../routes/routes.dart';
+import 'package:flutter_svg/svg.dart';
+import 'package:flutter/material.dart';
 // import '../../../utils/colors.dart';
-import '../../../utils/app/app_utils.dart';
 import '../../../utils/font_styles.dart';
+import '../../../utils/app/app_utils.dart';
 import '../../global_widgets/circle_button.dart';
 import '../../global_widgets/rounded_button.dart';
+import '../../../data/repositories/preferences_repository.dart';
 
 class WelcomePage extends StatelessWidget {
   const WelcomePage({Key? key}) : super(key: key);
