@@ -1,9 +1,8 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-
-import '../../../../helpers/get.dart';
 import '../login_controller.dart';
+import '../../../../helpers/get.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:provider/provider.dart';
 import '../../../../routes/routes.dart';
 import '../../../../utils/dialogs.dart';
 import '../../../../data/models/user.dart';
